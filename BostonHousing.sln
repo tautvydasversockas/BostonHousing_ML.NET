@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BostonHousing.ConsoleApp", "BostonHousing.ConsoleApp\BostonHousing.ConsoleApp.csproj", "{141D50E1-AC5D-4A61-B167-40BBFB07D4FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BostonHousing.Web", "BostonHousing.Web\BostonHousing.Web.csproj", "{A4C74D65-41B4-4F38-BDCE-77EF3BB6E4F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{141D50E1-AC5D-4A61-B167-40BBFB07D4FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{141D50E1-AC5D-4A61-B167-40BBFB07D4FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{141D50E1-AC5D-4A61-B167-40BBFB07D4FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{141D50E1-AC5D-4A61-B167-40BBFB07D4FE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A4C74D65-41B4-4F38-BDCE-77EF3BB6E4F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4C74D65-41B4-4F38-BDCE-77EF3BB6E4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4C74D65-41B4-4F38-BDCE-77EF3BB6E4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4C74D65-41B4-4F38-BDCE-77EF3BB6E4F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F3FB937A-A2C1-41CF-8B5D-8F353D6217C9}
+	EndGlobalSection
+EndGlobal
